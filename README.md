@@ -1,6 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Victor Borges</h1>
-<h3 align="center">A Web Developer Instructor focused on helping people start programming</h3>
-
+<h3 align="center">A Web Developer passionate about what he does and super motivated to help the community</h3> 
 
 - 🔭 I’m currently working on Front-End [ HTML, CSS, JS ]
 - 🌱 I’m currently learning Back-End [ PHP, SQL ]
